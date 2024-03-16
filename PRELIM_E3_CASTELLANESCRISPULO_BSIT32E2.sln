@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRELIM_E3_CASTELLANESCRISPULO_BSIT32E2", "PRELIM_E3_CASTELLANESCRISPULO_BSIT32E2\PRELIM_E3_CASTELLANESCRISPULO_BSIT32E2.csproj", "{AABA591C-3FF8-424B-BA0D-C8533E26BE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABA591C-3FF8-424B-BA0D-C8533E26BE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABA591C-3FF8-424B-BA0D-C8533E26BE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABA591C-3FF8-424B-BA0D-C8533E26BE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABA591C-3FF8-424B-BA0D-C8533E26BE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7E17D7D-734E-4348-94FC-A9BCAC3A81D1}
+	EndGlobalSection
+EndGlobal
